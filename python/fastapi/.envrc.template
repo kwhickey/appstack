@@ -1,0 +1,3 @@
+# Using the below statement instructs direnv to load the .env file for environment variables
+dotenv
+

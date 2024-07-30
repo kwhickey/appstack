@@ -1,0 +1,39 @@
+# General
+.env
+.envrc
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+env/
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+*.py[cod]
+
+# Go
+/bin/
+/pkg/
+
+# Rust
+/target/
+**/*.rs.bk
+
+# Kotlin
+/.gradle/
+/build/
+*.iml
+.idea/
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.iml
